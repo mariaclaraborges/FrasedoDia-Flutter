@@ -40,5 +40,5 @@ Aplicativo Flutter simples que exibe frases motivacionais aleatórias ao usuári
 
 ---
 
-Projeto criado para fins de estudo
-![image](https://user-images.githubusercontent.com/32282846/143885090-9419764d-d3df-4585-9c80-aac777ecf598.png)
+![Group 10](https://github.com/user-attachments/assets/b2965911-39b5-47f8-bbee-32086327428a)
+
